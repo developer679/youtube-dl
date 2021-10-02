@@ -574,6 +574,7 @@ from .lcp import (
     LcpIE,
 )
 from .lecture2go import Lecture2GoIE
+from .lecturetube import LectureTubeIE
 from .lecturio import (
     LecturioIE,
     LecturioCourseIE,
